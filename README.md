@@ -16,6 +16,7 @@ This project explores deep learning-based detection of ransomware families using
 - `datasets/`: Preprocessing & sample data
 - `results/`: Logs & output metrics
 - `images/`: Confusion matrix and visualizations
+- `codes/`: Python source code files
 
 ## 🧠 Feature Engineering
 - Entropy & write amplification factor
@@ -24,9 +25,6 @@ This project explores deep learning-based detection of ransomware families using
 
 ## 📊 Cross Validation
 Used 3-Fold Stratified CV on CNN and LSTM
-
-## 📽️ Demo
-Watch a short demo of the project: *[Add your OneDrive or YouTube link]*
 
 ---
 
