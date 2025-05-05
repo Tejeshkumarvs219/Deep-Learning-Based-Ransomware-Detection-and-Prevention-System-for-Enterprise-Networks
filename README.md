@@ -13,9 +13,8 @@ This project explores deep learning-based detection of ransomware families using
 
 ## 📁 Structure
 - `models/`: Model architectures
-- `datasets/`: Preprocessing & sample data
-- `results/`: Logs & output metrics
-- `images/`: Confusion matrix and visualizations
+- `documentation/`: Report
+- `results/`: Confusion matrix and visualizations
 - `codes/`: Python source code files
 
 ## 🧠 Feature Engineering
