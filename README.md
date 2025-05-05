@@ -12,7 +12,7 @@ This project explores deep learning-based detection of ransomware families using
 - Tools: PyTorch, NumPy, scikit-learn, pandas
 
 ## 📁 Structure
-- `models/`: Model architectures
+- `models/`: Models
 - `documentation/`: Report
 - `results/`: Confusion matrix and visualizations
 - `codes/`: Python source code files
